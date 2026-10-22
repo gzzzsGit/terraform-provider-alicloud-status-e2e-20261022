@@ -1,0 +1,2 @@
+Isolated PR, merge and release lifecycle smoke test.
+Fixture date: 2026-10-22.
