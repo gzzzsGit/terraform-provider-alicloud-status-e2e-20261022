@@ -1,0 +1,3 @@
+Isolated 600-second lifecycle verification fixture.
+Created after the fresh positive test issue.
+This file does not change the Terraform provider implementation.
